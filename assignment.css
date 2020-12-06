@@ -15,7 +15,7 @@ body{
 	height: 35vh;
 	width: 45vw;
 	background-color: black;
-	opacity: .6;
+	opacity: .7;
 	z-index: ;
 	position: absolute;
 	top:0;
@@ -23,7 +23,6 @@ body{
 .image{
 	position: relative;
 	background-color: black;
-	opacity: .8;
 	z-index: 1;
 }
 .reduced-opacity{
